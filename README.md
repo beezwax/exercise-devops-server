@@ -1,3 +1,5 @@
+**Please don't create a public fork of this repo!** Instead, clone or [import this into a new private repo](https://github.com/new/import) and then share with us. Thanks!
+
 ## Server
 
 This project is a simple express app built with Node.js.
